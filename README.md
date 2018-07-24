@@ -1,1 +1,1 @@
-Запустить index.html
+Run index.html
